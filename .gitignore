@@ -1,0 +1,13 @@
+# vscode
+/.vscode/
+/.favorites.json
+
+# idea
+/.idea/*
+
+# macos
+._.DS_Store
+.DS_Store
+
+# windows
+thumbs.db
